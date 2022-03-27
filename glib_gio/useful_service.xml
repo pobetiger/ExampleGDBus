@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<node name="/" xmlns:doc="http://www.freedesktop.org/dbus/1.0/doc.dtd">
+  <interface name="com.pobetiger.useful_service">
+    <method name="quit"></method> <!-- no args -->
+    <signal name="full_report" />
+  </interface>
+</node>
