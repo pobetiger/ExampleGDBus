@@ -1,0 +1,7 @@
+*.o
+cpp_interface_app
+c_interface_app
+# these are auto-generated:
+glib_gio/useful_service.c
+glib_gio/useful_service.h
+
